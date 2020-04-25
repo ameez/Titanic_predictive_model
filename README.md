@@ -1,1 +1,1 @@
-"# Titanic_predictive_model" 
+Titanic.ipnyb is a jupyter notebook consisting of all the steps such as preprocessing of data as well as analysis of the model used to predict survival of the passengers of the titanic dataset as present on Kaggle.
